@@ -1,0 +1,4 @@
+http://data.un.org/Data.aspx?q=gdp&d=SNAAMA&f=grID%3a101%3bcurrID%3aNCU%3bpcFlag%3a0#SNAAMA
+
+http://data.un.org/Data.aspx?q=food+expenditures&d=SNA&f=group_code%3a302%3bitem_code%3a1#f_1
+
